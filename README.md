@@ -15,10 +15,10 @@ Java · Spring Boot · React
 - Git / GitHub
 
 ---
-
 ## 📊 GitHub Stats
 
-![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerojun9403&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zerojun9403&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerojun9403&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerojun9403&layout=compact&theme=github_dark)
+
 
