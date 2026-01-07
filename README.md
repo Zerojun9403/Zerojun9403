@@ -1,4 +1,5 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=Zerojun9403&theme=github-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zerojun9403&show_icons=true&theme=github_dark&cache_seconds=1800)
+
 # 👋 Hi, I'm Jun  
 ### Backend-oriented Fullstack Developer
 
