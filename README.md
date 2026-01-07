@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Jun
+# 👋 Hi, I'm Jun  
+### Backend-oriented Fullstack Developer
+
 
 Backend-oriented Fullstack Developer  
 Java · Spring Boot · React
