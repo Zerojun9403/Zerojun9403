@@ -1,4 +1,4 @@
-![test](https://github-readme-stats.vercel.app/api?username=Zerojun9403)
+![GitHub Streak](https://streak-stats.demolab.com?user=Zerojun9403&theme=github-dark)
 # 👋 Hi, I'm Jun  
 ### Backend-oriented Fullstack Developer
 
